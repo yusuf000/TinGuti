@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tinGuti">
+    <output-path>$PROJECT_DIR$/out/artifacts/tinGuti</output-path>
+    <root id="archive" name="tinGuti.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="TinGuti Java" />
+    </root>
+  </artifact>
+</component>

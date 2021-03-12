@@ -1,0 +1,1 @@
+-Xss1024m -Xmx4g -XX:+UseConcMarkSweepGC
